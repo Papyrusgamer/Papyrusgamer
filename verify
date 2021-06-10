@@ -1,0 +1,4 @@
+{delete}
+{silent}
+{!role {user} +Il tuo ruolo di utente verificato}
+{!role {user} -Il tuo ruolo di utente non verificato}////Facoltativo
